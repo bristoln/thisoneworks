@@ -1,0 +1,74 @@
+.common{
+
+    text-align: center;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.header{
+
+    height: 100px;
+    background-color: rgba(40, 80, 53, 0.884);
+    color: white;
+    line-height: 100px;
+}
+
+body{
+
+    background-color: rgba(83, 126, 78, 0.713);
+    color: antiquewhite;
+    font-size: 16px;
+    font-family: Georgia, Times, 
+    text-align: Center;
+
+    
+    
+
+}
+
+.footer{
+
+    height: 25px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+}
+
+img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+
+}
+
+nav a{
+
+    float: left;
+    color:#333;
+    padding: 10px 13px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+nav a:hover{
+    background-color: #ccc;
+
+
+}
+
+.underline {
+    text-decoration: underline
+}
+
